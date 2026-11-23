@@ -22,8 +22,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?color_snake=%23ff1e1e&color_dots=%23ffffff,%23ffffff,%23ffffff,%23ffffff,%23ffffff&color_background=%230d1117&color_outline=%23ffffff
+          o          outputs: |
+            dist/github-snake-dark.svg?color_snake=%23ff1e1e&color_dots=%23ffffff,%23ffffff,%23ffffff,%23ffffff,%23ffffff&color_outline=%23ffffff
+            dist/github-snake.svg?color_snake=%23ff1e1e&color_dots=%2316191f,%2316191f,%2316191f,%2316191f,%2316191f&color_outline=%2316191f
 
       - name: Commit generated files
         uses: stefanzweifel/git-auto-commit-action@v5
