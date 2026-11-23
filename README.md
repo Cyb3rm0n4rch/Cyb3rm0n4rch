@@ -1,57 +1,147 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
-  <style>
-    .grid { stroke: #00FF41; stroke-opacity: 0.07; fill: none; }
-    .scanline { animation: scan 4s linear infinite; }
-    @keyframes scan { 0% { transform: translateY(0); } 100% { transform: translateY(260px); } }
-    .slash { stroke-dasharray: 380; stroke-dashoffset: 380; animation: draw 4s ease-in-out infinite; }
-    @keyframes draw { 0% { stroke-dashoffset: 380; opacity: 1; } 45%, 75% { stroke-dashoffset: 0; opacity: 0.55; } 100% { stroke-dashoffset: -380; opacity: 0; } }
-    .title { font-family: 'Courier New', monospace; font-size: 46px; font-weight: bold; fill: #D4AF37; animation: glitch 6s infinite; }
-    @keyframes glitch {
-      0%, 90%, 100% { transform: translate(0, 0); fill: #D4AF37; }
-      91% { transform: translate(-4px, 0); fill: #00FF41; }
-      93% { transform: translate(4px, 0); fill: #D4AF37; }
-      95% { transform: translate(-2px, 1px); fill: #ffffff; }
-      97% { transform: translate(0, 0); fill: #D4AF37; }
-    }
-    .sub { font-family: 'Courier New', monospace; font-size: 18px; fill: #00FF41; }
-    .cursor { animation: blink 1s steps(2, start) infinite; }
-    @keyframes blink { to { visibility: hidden; } }
-    .code { font-family: 'Courier New', monospace; font-size: 12px; fill: #00FF41; opacity: 0.45; animation: flicker 3s infinite; }
-    @keyframes flicker { 0%, 100% { opacity: 0.45; } 50% { opacity: 0.2; } }
-    .ring { stroke: #00FF41; stroke-opacity: 0.25; fill: none; }
-    .radar { transform-box: view-box; transform-origin: 760px 130px; animation: spin 5s linear infinite; }
-    @keyframes spin { to { transform: rotate(360deg); } }
-    .blip { fill: #00FF41; animation: ping 2.5s ease-out infinite; }
-    .b1 { animation-delay: 0s; }
-    .b2 { animation-delay: 1s; }
-    .b3 { animation-delay: 1.8s; }
-    @keyframes ping { 0%, 100% { opacity: 0; } 10% { opacity: 1; } 60% { opacity: 0.1; } }
-  </style>
+<div align="center">
 
-  <rect width="900" height="260" fill="#0d1117"/>
+<img src="./assets/banner.svg" alt="r4gn4rock banner" width="100%" />
 
-  <path class="grid" d="M0 52H900 M0 104H900 M0 156H900 M0 208H900 M90 0V260 M180 0V260 M270 0V260 M360 0V260 M450 0V260 M540 0V260 M630 0V260 M720 0V260 M810 0V260"/>
+<br>
 
-  <path class="slash" d="M0 260 L900 0" stroke="#D4AF37" stroke-width="2" fill="none"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=00FF41&center=true&vCenter=true&width=640&lines=Breaking+systems+so+they+stay+unbroken;Hunting+threats+in+the+dark;Know+your+enemy.+Know+yourself.;root%40cyb3rm0n4rch:~$+whoami+%E2%86%92+samurai" alt="Typing animation" />
 
-  <rect class="scanline" x="0" y="0" width="900" height="3" fill="#00FF41" opacity="0.5"/>
+<br>
 
-  <text class="title" x="60" y="128">侍 r4gn4rock</text>
-  <text class="sub" x="60" y="168">&gt; pentester · ctf player · soc analyst<tspan class="cursor">_</tspan></text>
-  <text class="code" x="60" y="222">0x4A 0x3F 0x17 0x9C 0xE2 0x11 0xD8 0x7B 0x30 0xFA</text>
+<a href="https://app.hackthebox.com/public/users/2809489">
+  <img src="https://www.hackthebox.com/badge/image/2809489" alt="Hack The Box Profile" />
+</a>
 
-  <circle class="ring" cx="760" cy="130" r="40"/>
-  <circle class="ring" cx="760" cy="130" r="70"/>
-  <circle class="ring" cx="760" cy="130" r="100"/>
-  <line x1="660" y1="130" x2="860" y2="130" stroke="#00FF41" stroke-opacity="0.15"/>
-  <line x1="760" y1="30" x2="760" y2="230" stroke="#00FF41" stroke-opacity="0.15"/>
+</div>
 
-  <g class="radar">
-    <path d="M760 130 L760 30 A100 100 0 0 0 663 104 Z" fill="#00FF41" opacity="0.18"/>
-    <line x1="760" y1="130" x2="760" y2="30" stroke="#00FF41" stroke-width="2"/>
-  </g>
+<img src="./assets/divider.svg" width="100%" />
 
-  <circle class="blip b1" cx="722" cy="96" r="4"/>
-  <circle class="blip b2" cx="792" cy="162" r="4"/>
-  <circle class="blip b3" cx="748" cy="174" r="3"/>
-</svg>
+<div align="center">
+
+### 🏯 Operator Profile
+
+</div>
+
+```
+┌─ whoami ─────────────────────────────────────────────────────────┐
+│ name     : Resego Mokgopa                                        │
+│ handle   : r4gn4rock / Cyb3rM0n4rch                              │
+│ role     : Penetration Tester · SOC Analyst (pivoting)           │
+│ focus    : web app security · network security · detection       │
+│ status   : CPTS (in progress) · BSCP (in progress)               │
+│ drive    : hands-on labs, CTFs, and security tooling             │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+**Interests:** Web application security · Network security · Vulnerability assessment · Incident detection · Offensive security
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+### 📜 Bushido Code
+
+> *"Know your enemy, know yourself, and in a hundred battles you will never be in peril."*
+> — Sun Tzu
+
+**義 Gi** Justice &nbsp;·&nbsp; **勇 Yū** Courage &nbsp;·&nbsp; **礼 Rei** Respect &nbsp;·&nbsp; **誠 Makoto** Honesty
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+### 🗡️ Security Arsenal
+
+<table>
+<tr>
+<td align="center" width="33%"><b>⚔️ Offensive</b><br><br>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/SQLmap-D22128?style=flat-square&logo=sqlite&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Hydra-262626?style=flat-square&logo=thc-hydra&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/John_the_Ripper-4B0082?style=flat-square&logoColor=white" />
+</td>
+<td align="center" width="33%"><b>🛡️ Blue Team</b><br><br>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-E10000?style=flat-square&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Suricata-EF3B24?style=flat-square&logoColor=white" />
+</td>
+<td align="center" width="33%"><b>🐍 Tooling</b><br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+### 🏯 Featured Operations
+
+</div>
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| [Python Password Strength Checker](https://github.com/Cyb3rM0n4rch/python-password-strength-checker) | Analyzes password strength and flags weak credentials | Python |
+| [Home SOC Automation](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Automated detection and response workflows for a home SOC | Python · Bash |
+| [Home SOC Lab:ELK Stack](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Centralized log ingestion, search, and security dashboards,   Elasticsearch · Logstash · Kibana |
+| [Python IOC Extractor](https://github.com/r4gn4rock/Python_ioc_Xtractor) | Extracts indicators of compromise (IPs, domains, hashes) from text | Python |
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+### 📊 Telemetry
+
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+&nbsp;&nbsp;
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub streak" /></a>
+
+<br><br>
+
+<img src="./dist/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+### 📫 Connect
+
+<a href="https://www.linkedin.com/in/resego-mokgopa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://app.hackthebox.com/public/users/2809489"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"></a>
+<a href="mailto:rbmokgopa01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Cyb3rM0n4rch&style=for-the-badge&label=Profile+views&color=D4AF37&labelColor=0d1117">
+
+<br><br>
+
+*"The warrior who knows the path needs no fear of the end."*
+
+</div>
