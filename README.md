@@ -4,7 +4,7 @@
 
 **Interests:** Web security · Network security · Vulnerability assessment · Incident detection · Offensive security
 <br>
-**改善 Kaizen**: continuous improvement
+**改善 Kaizen** is the way to the top
 
 <img src="./assets/divider.svg" width="90%" />
 
