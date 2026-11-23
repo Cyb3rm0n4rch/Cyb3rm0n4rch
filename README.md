@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=00FF41&center=true&vCenter=true&width=640&lines=Breaking+systems+so+they+stay+unbroken;Hunting+threats+in+the+dark;Know+your+enemy.+Know+yourself.;root%40cyb3rm0n4rch:~$+whoami+%E2%86%92+samurai" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=red&center=true&vCenter=true&width=640&lines=Breaking+systems+so+they+stay+unbroken;Hunting+threats+in+the+dark;Know+your+enemy.+Know+yourself.;root%40cyb3rm0n4rch:~$+whoami+%E2%86%92+samurai" alt="Typing animation" />
 
 <br>
 
