@@ -8,7 +8,7 @@
 
 <img src="./assets/divider.svg" width="90%" />
 
-### 🏯 Missions
+### 🏯 CYbersecurity Projects
 
 **01** [Password Strength Checker](https://github.com/Cyb3rM0n4rch/python-password-strength-checker) · Python<br>
 **02** [Home SOC Automation](https://github.com/Cyb3rM0n4rch/YOUR-REPO) · Python · Bash<br>
