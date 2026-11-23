@@ -2,6 +2,8 @@
 
 <img src="./assets/banner.svg" alt="r4gn4rock banner" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=00FF41&center=true&vCenter=true&width=640&lines=Breaking+systems+so+they+stay+unbroken;Hunting+threats+in+the+dark;Know+your+enemy.+Know+yourself.;root%40cyb3rm0n4rch:~$+whoami+%E2%86%92+samurai" alt="Typing animation" />
+
 <br>
 
 <a href="https://app.hackthebox.com/public/users/2809489">
@@ -14,9 +16,7 @@
 
 <br>
 
-> *"Know your enemy, know yourself, and in a hundred battles you will never be in peril."* — Sun Tzu
-
-**義 Gi** Justice &nbsp;·&nbsp; **勇 Yū** Courage &nbsp;·&nbsp; **礼 Rei** Respect &nbsp;·&nbsp; **誠 Makoto** Honesty
+**改善 Kaizen**: continuous improvement
 
 </div>
 
@@ -26,15 +26,68 @@
 
 ### 🏯 Featured Operations
 
-| Project | Description | Stack |
-|---|---|---|
-| [Python Password Strength Checker](https://github.com/Cyb3rM0n4rch/python-password-strength-checker) | Analyzes password strength and flags weak credentials | Python |
-| [Home SOC Automation](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Automated detection and response workflows for a home SOC | Python · Bash |
-| [Home SOC Lab](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Virtualized lab for attack simulation and detection engineering | Docker · Linux |
-| [ELK Stack](https://github.com/Cyb3rM0n4rch/YOUR-REPO) | Centralized log ingestion, search, and security dashboards | Elasticsearch · Logstash · Kibana |
-| [Python IOC Extractor](https://github.com/r4gn4rock/Python_ioc_Xtractor) | Extracts indicators of compromise (IPs, domains, hashes) from text | Python |
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Cyb3rM0n4rch/python-password-strength-checker">
+  <img src="https://img.shields.io/badge/MISSION_01-Password_Strength_Checker-D4AF37?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br><br>
+Analyzes password strength and flags weak credentials
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Cyb3rM0n4rch/YOUR-REPO">
+  <img src="https://img.shields.io/badge/MISSION_02-Home_SOC_Automation-D4AF37?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br><br>
+Automated detection and response workflows for a home SOC
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Cyb3rM0n4rch/YOUR-REPO">
+  <img src="https://img.shields.io/badge/MISSION_03-Home_SOC_Lab-D4AF37?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br><br>
+Virtualized lab for attack simulation and detection engineering
+<br><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Cyb3rM0n4rch/YOUR-REPO">
+  <img src="https://img.shields.io/badge/MISSION_04-ELK_Stack-D4AF37?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br><br>
+Centralized log ingestion, search, and security dashboards
+<br><br>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<a href="https://github.com/r4gn4rock/Python_ioc_Xtractor">
+  <img src="https://img.shields.io/badge/MISSION_05-Python_IOC_Extractor-D4AF37?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br><br>
+Extracts indicators of compromise (IPs, domains, hashes) from text
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</td>
+</tr>
+</table>
 
-<br>
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
 
 ### 📊 Telemetry
 
