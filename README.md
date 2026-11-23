@@ -122,8 +122,10 @@
 
 <br><br>
 
-<img src="./dist/github-snake-dark.svg" alt="Contribution snake" width="100%" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="./dist/github-snake.svg" width="100%" />
+</picture>
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
