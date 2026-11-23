@@ -37,7 +37,7 @@
   <rect class="scanline" x="0" y="0" width="900" height="3" fill="#00FF41" opacity="0.5"/>
 
   <text class="title" x="60" y="128">侍 r4gn4rock</text>
-  <text class="sub" x="60" y="168">&gt; pentester · ctf player · soc analyst<tspan class="cursor">_</tspan></text>
+<text class="sub" x="60" y="168">&gt; soc analyst · pentester · ctf player<tspan class="cursor">_</tspan></text>
   <text class="code" x="60" y="222">0x4A 0x3F 0x17 0x9C 0xE2 0x11 0xD8 0x7B 0x30 0xFA</text>
 
   <circle class="ring" cx="760" cy="130" r="40"/>
