@@ -3,7 +3,7 @@
 <img src="./assets/banner.svg" alt="r4gn4rock banner" width="80%" />
 
 <br>
-**改善 Kaizen** is the way to the top
+<em>改善 Kaizen</em> is the way to the top
 
 <img src="./assets/divider.svg" width="90%" />
 
