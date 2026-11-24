@@ -12,8 +12,7 @@
 **01** [Basic Home SOC Lab](https://github.com/ragnar3z/basic-home-soc-lab) · ELK Stack · Linux<br>
 **02** [Password Strength Checker](https://github.com/Cyb3rM0n4rch/python-password-strength-checker) · Python<br>
 **03** [Python IOC Extractor](https://github.com/r4gn4rock/Python_ioc_Xtractor) · Python
-**04** [ELK Stack](https://github.com/Cyb3rM0n4rch/YOUR-REPO) · Elasticsearch · Kibana<br>
-**05** [Home SOC Automation](https://github.com/Cyb3rM0n4rch/YOUR-REPO) · Python · Bash<br>
+**04** [Home SOC Automation](https://github.com/Cyb3rM0n4rch/YOUR-REPO) · Python · Bash<br>
 
 <img src="./assets/divider.svg" width="90%" />
 
