@@ -2,7 +2,6 @@
 
 <img src="./assets/banner.svg" alt="r4gn4rock banner" width="80%" />
 
-**Interests:** Web security · Network security · Vulnerability assessment · Incident detection · Offensive security
 <br>
 **改善 Kaizen** is the way to the top
 
