@@ -9,11 +9,11 @@
 
 ### 🏯 CYbersecurity Projects
 
-**01** [Password Strength Checker](https://github.com/Cyb3rM0n4rch/python-password-strength-checker) · Python<br>
-**02** [Home SOC Automation](https://github.com/Cyb3rM0n4rch/YOUR-REPO) · Python · Bash<br>
-**03** [Home SOC Lab](https://github.com/Cyb3rM0n4rch/YOUR-REPO) · Docker · Linux<br>
+**01** [Home SOC Lab](https://github.com/Cyb3rM0n4rch/YOUR-REPO) · Docker · Linux<br>
+**02** [Password Strength Checker](https://github.com/Cyb3rM0n4rch/python-password-strength-checker) · Python<br>
+**03** [Python IOC Extractor](https://github.com/r4gn4rock/Python_ioc_Xtractor) · Python
 **04** [ELK Stack](https://github.com/Cyb3rM0n4rch/YOUR-REPO) · Elasticsearch · Kibana<br>
-**05** [Python IOC Extractor](https://github.com/r4gn4rock/Python_ioc_Xtractor) · Python
+**05** [Home SOC Automation](https://github.com/Cyb3rM0n4rch/YOUR-REPO) · Python · Bash<br>
 
 <img src="./assets/divider.svg" width="90%" />
 
